@@ -1,0 +1,2 @@
+Number of Layers,Activation Function,Drop out Rate,Number of Units,Learning Rate,Regualrisation Type,L1 Strenght,L2 Strenght
+2,sigmoid,0.0590731237212877,253,0.005196484442711773,l1,2.06694264447087e-05,0.0005409544812395567

@@ -1,0 +1,2 @@
+Number of Layers,Activation Function,Drop out Rate,Number of Units,Learning Rate,Regualrisation Type,L1 Strenght,L2 Strenght
+2,relu,0.13288286791395848,236,0.0036462592000901686,/,/,/
