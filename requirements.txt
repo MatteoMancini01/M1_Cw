@@ -1,0 +1,9 @@
+numpy
+matplotlib
+joblib
+pandas
+scipy
+tensorflow
+optuna
+scikit-learn
+ipython
